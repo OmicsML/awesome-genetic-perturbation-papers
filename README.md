@@ -7,3 +7,4 @@
 1. [2024 Nature Reviews Genetics] **Causal inference for epigenetic ageing** [[paper]](https://www.nature.com/articles/s41576-024-00799-7#:~:text=The%20application%20of%20genetic%2Dbased,that%20directly%20influence%20ageing%20outcomes.)
 1. [2023 Nature Biotech] **Predicting transcriptional outcomes of novel multigene perturbations with GEARS** [[paper]](https://www.nature.com/articles/s41587-023-01905-6)
 1. [2023 Nature] **Transfer learning enables predictions in network biology** [[paper]](https://www.nature.com/articles/s41586-023-06139-9)
+1. [2024 BioRxiv] **Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA** [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.04.626878v1)
