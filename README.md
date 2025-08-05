@@ -8,3 +8,4 @@
 1. [2023 Nature Biotech] **Predicting transcriptional outcomes of novel multigene perturbations with GEARS** [[paper]](https://www.nature.com/articles/s41587-023-01905-6)
 1. [2023 Nature] **Transfer learning enables predictions in network biology** [[paper]](https://www.nature.com/articles/s41586-023-06139-9)
 1. [2024 BioRxiv] **Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA** [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.04.626878v1)
+1. [2025 nature methods] **Deep-learning-based gene perturbation effect prediction does not yet outperform simple linear baselines** [[paper]](https://www.nature.com/articles/s41592-025-02772-6)
